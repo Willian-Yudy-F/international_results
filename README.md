@@ -1,3 +1,7 @@
+## About this fork
+This is a copy of the open Kaggle dataset *International football results from 1872 to 2025* by Mart Jürisoo. I keep it here as the frozen data source for my [FielCup](https://github.com/Willian-Yudy-F/FielCup) World Cup forecasting project, so the model can be reproduced exactly even if the original dataset changes. Nothing was modified; the original README follows.
+
+---
 ### Context
 
 Well, what happened was that I was looking for a semi-definitive easy-to-read list of international football matches and couldn't find anything decent. So I took it upon myself to collect it for my own use. I might as well share it.
